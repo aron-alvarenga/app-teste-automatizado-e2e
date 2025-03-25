@@ -122,7 +122,7 @@ Contribuições são bem-vindas! Por favor, abra uma issue ou envie um pull requ
 
 - https://www.linkedin.com/in/aron-alvarenga
 
-### 🖼️ Imagem da aplicação
+## 🖼️ Imagem da aplicação
 
 <div align="center">
   <img src="./image.PNG" alt="Imagem da aplicação">
